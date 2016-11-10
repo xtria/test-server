@@ -17,11 +17,11 @@ easy_install speedtest-cli
 
 Github
 
-pip install git+https://github.com/sivel/speedtest-cli.git
+pip install git+https://github.com/xtria/test-server.git
 
 or
 
-git clone https://github.com/sivel/speedtest-cli.git
+git clone https://github.com/xtria/test-server.git
 python speedtest-cli/setup.py install
 
 Just download (Like the way it used to be)
