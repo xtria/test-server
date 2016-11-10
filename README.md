@@ -43,7 +43,7 @@ usage: speedtest-cli [-h] [--bytes] [--share] [--simple] [--list]
 
 Command line interface for testing internet bandwidth using speedtest.net.
 --------------------------------------------------------------------------
-https://github.com/sivel/speedtest-cli
+https://github.com/xtria/test-server
 
 optional arguments:
   -h, --help         show this help message and exit
